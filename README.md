@@ -1,0 +1,1 @@
+A CLI calculator written in Rust. It supports basic arithmetic operations and parentheses.
